@@ -90,6 +90,10 @@ article a {
     background-color: #000;
 }
 
+footer {
+    padding: 0 30px;
+}
+
 footer ul {
     display: flex;
     list-style: none;
